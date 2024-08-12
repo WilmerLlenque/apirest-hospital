@@ -1,4 +1,4 @@
-package com.jwll.model.payload;
+package com.app.apirest.hospital.apirest_hospital.models.payload;
 
 import lombok.Builder;
 import lombok.Data;
